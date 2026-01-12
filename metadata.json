@@ -1,0 +1,5 @@
+{
+  "name": "SpendWise - Local Expense Tracker",
+  "description": "A fully offline, privacy-focused expense manager built with a native Android Material Design aesthetic. Track daily and monthly spending with local storage.",
+  "requestFramePermissions": []
+}
